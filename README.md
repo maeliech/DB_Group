@@ -27,13 +27,14 @@ Our goals are the creation of databases to manage all the different datas enteri
 
 - Concept and definition :
     
-    First we have ti draw the external system, understand how to company we're imagining is working, brainstorm together and gather ideas from every member of the group
+    First we have to draw the external system, understand how the company we're imagining is working, brainstorm together and gather ideas from every member of the group
 
 - Link the ideas to the course :
 
-    Then, we have to think about the database itself, the SQL code. What king of tables are needed for our company ? We need to make sure our example fits well with the concepts learnt during class
+    Then, we have to think about the database itself, the SQL code. What kind of tables are needed for our company ? We need to make sure our example fits well with the concepts learnt during class
 
 - Divide work and precise it :
 
     Once the overall work is well shaped, we can start dividing the work between members and actually start the database creation process
  
+![diagram](https://user-images.githubusercontent.com/98285475/204119702-12bf296a-7831-4d30-9f45-d993d4da3c57.png)
