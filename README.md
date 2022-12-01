@@ -6,7 +6,7 @@ This is the repository for the final project of the Database course for Group F
 
 ## Authors
 
-- [@Chang Peng M.](https://github.com/maeliech)
+- [@Chan Peng M.](https://github.com/maeliech)
 - [@Sester V.](https://github.com/VictorSester)
 - [@Merle JC.](https://github.com/AlainWalbar)
 - [@Camoin L.](https://github.com/CamoinLancelot)
