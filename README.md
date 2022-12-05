@@ -37,5 +37,6 @@ Our goals are the creation of databases to manage all the different datas enteri
 
     Once the overall work is well shaped, we can start dividing the work between members and actually start the database creation process
  
+![Diagram](https://user-images.githubusercontent.com/113513230/205566165-af8279ee-bb1c-4e10-859a-388a3ab381da.png)
 
-![diagram_updated](https://user-images.githubusercontent.com/98285475/204683609-0d33cc2a-9d4b-415f-b4fa-b42b7b748173.png)
+
